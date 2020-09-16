@@ -1,0 +1,77 @@
+body,html{
+  height: 100%;
+}
+
+button{
+  margin-right: 20px;
+}
+
+h2{
+margin: 50px 8px 42px 8px;
+font-weight: 750;
+
+}
+
+img{
+  width: 80%;
+  height: 100%;
+
+  margin: auto 10px;
+
+}
+
+input[type]{
+
+  border: none;
+  box-shadow: none;
+  border-bottom: 1px solid;
+  border-color: #ced4da;
+
+
+
+
+}
+
+input[type]:focus,select.form-control:focus{
+  -webkit-box-shadow: none;
+
+  border-color: #ced4da;
+}
+
+
+
+.agree{
+  margin: 50px 8px;
+}
+
+.buttons{
+  margin: 8px;
+}
+
+
+.first{
+
+
+  height: auto;
+}
+
+.main{
+
+  width: 100vw;
+  height: 100vh;
+  top:0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.second{
+  margin: auto;
+  padding: 60px;
+}
+.title{
+  color: #777b7e;
+
+  font-weight: bold;
+  margin: 9px;
+}
