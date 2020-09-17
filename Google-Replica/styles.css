@@ -1,0 +1,108 @@
+a{
+  margin: 4px;
+  color: #1a0dab;
+}
+body,button{
+  font-size: 14px;
+  font-family: arial, sans-serif;
+  color: #222;
+}
+
+input[type=text]{
+
+  margin: auto;
+  border-radius: 20px;
+
+
+}
+
+
+
+p{
+  display: inline;
+}
+
+
+.btn{
+  height: 3rem;
+  width: 10rem;
+  color:#222;
+
+}
+.contain{
+  text-align: center;
+
+}
+
+.element{
+  text-align:center;
+  padding: 10px;
+
+
+
+}
+
+.fa-share-alt{
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 150px;
+  color: #87ceeb;
+}
+
+.first{
+  margin-top: 90px;
+  position: relative;
+}
+
+.footer{
+  position: relative;
+  margin-top: 120px;
+
+
+}
+
+.form-group{
+
+  text-align: center;
+}
+
+
+
+.left{
+  position: absolute;
+  left: 20px;
+}
+
+.right{
+  position: absolute;
+  right: 20px;
+}
+.select{
+  color: #222;
+}
+
+
+.share{
+  margin-left: 600px;
+}
+
+.tags{
+  position: relative;
+
+}
+
+.tagname{
+
+  position: absolute;
+  right: 30px;
+  top: 10px;
+  margin-top: 1px;
+
+}
+
+.text{
+  width: 35%;
+  margin: auto;
+display: flex;
+
+}
