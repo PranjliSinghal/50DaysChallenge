@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+  color: #66ff99;
+  font-family: 'orbitron';
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+#main{
+
+  padding-top: 50px;
+  text-align: center;
+}
