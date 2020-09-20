@@ -1,0 +1,28 @@
+body{
+  background-color: orange;
+  color: white;
+}
+
+
+
+h2{
+  margin: auto;
+  text-align: center;
+  font-family: 'Georgia, serif';
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+
+}
+
+
+
+.question{
+  font-weight: bold;
+  font-family: 'Palatino, serif';
+}
+
+.answers{
+  margin-top: 10px;
+   margin-bottom: 30px;
+}
