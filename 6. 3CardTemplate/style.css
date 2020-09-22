@@ -1,0 +1,39 @@
+.links a{
+  float: left;
+  padding: 12px;
+  color: black;
+  font-weight: bold;
+}
+
+
+.middle{
+  padding: 80px;
+}
+
+
+.main{
+  background-image: url('nature1.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: white;
+  height:60vh;
+  text-align: center;
+  padding: 150px;
+}
+
+.navbar{
+  background-color: #5f5f5f;
+  margin-bottom: 10px;
+
+}
+
+.navbar-header a{
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+
+body{
+  font-family: "Verdana, sans-serif";
+}
