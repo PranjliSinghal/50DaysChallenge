@@ -1,0 +1,56 @@
+body{
+
+  font-family: "Montserrat", "Avenir";
+  margin : 0;
+  padding: 0px;
+}
+
+button{
+  background-color: white;
+  color: steelblue;
+}
+
+.container{
+
+  margin: 0px auto;
+  max-width: 600px;
+}
+.header{
+  background-color: steelblue;
+  color: white;
+  text-align: center;
+  line-height: 1.1;
+}
+
+.middle{
+  background-color: white;
+  text-align: center;
+
+}
+
+.new-game{
+  border: 0px;
+  font-size: 1.5rem;
+}
+
+.new-game:focus{
+  outline: none;
+  background: steelblue;
+  color: white;
+}
+
+
+
+.square{
+  padding-bottom: 30%;
+  width: 30%;
+  font-family: cursive;
+  color: steelblue;
+  border-radius: 15%;
+margin: 10px;
+  float: left;
+}
+
+#message{
+  color: steelblue;
+}
