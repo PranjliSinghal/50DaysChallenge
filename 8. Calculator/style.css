@@ -1,0 +1,43 @@
+body{
+
+
+}
+
+.Calculator{
+  background-color: steelblue;
+margin: auto;
+height: 400px;
+width: 800px;
+padding: 50px;
+
+}
+
+.equals{
+  grid-row-start: 2;
+  grid-row-end: 6;
+
+  grid-column-start: 4;
+  grid-column-end: 5;
+  background-color: orange;
+}
+
+.grid-container{
+  height: 300px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+
+
+}
+
+.grid-item{
+  border: 1px solid black;
+}
+
+#result{
+  background-color: #232323;
+  color: white;
+  height: 60px;
+  padding: 10px;
+
+  font-size: 40px;
+}
