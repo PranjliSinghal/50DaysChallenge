@@ -9,7 +9,7 @@ window.addEventListener('load',()=>{
       navigator.geolocation.getCurrentPosition(position =>{
         long = position.coords.longitude;
         lat = position.coords.latitude;
-        const url = `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=f315233507e499cdb2199f36ce45babd`;
+        const url = `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=`; //api key in appid
         
 
         fetch(url)
